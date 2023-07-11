@@ -4,6 +4,10 @@
 
 Welcome to the Roblox Follow Bot project! This Python bot allows you to quickly and safely automate the process of following users on Roblox. Please note that using automated bots or scripts on Roblox may violate their terms of service, so proceed with caution and use this tool responsibly.
 
+## Download
+
+Click [here](https://github.com/cheslin23t/RobloxFollowBot/releases/tag/Release) to download. Once on that page, either download the zip, extract, and run the installer, or just download and run the installer.
+
 ## Features
 
 - Fast and efficient generation of Roblox accounts.
